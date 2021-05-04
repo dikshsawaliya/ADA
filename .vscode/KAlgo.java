@@ -57,3 +57,5 @@ public class KAlgo
             matrixx[a][b]=matrixx[b][a]=999;
         }
         System.out.println("The weight is "+total);
+    }
+}    
